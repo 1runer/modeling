@@ -1,2 +1,1 @@
-modeling
-My first Repo
+This repository is for saving things.
